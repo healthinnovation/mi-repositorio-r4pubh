@@ -1,0 +1,12 @@
+---
+title: "Análisis Preliminar"
+format: html
+---
+
+# Importación de datos
+
+```{r}
+library(tidyverse)
+```
+
+# Exploración inicial de los datos
