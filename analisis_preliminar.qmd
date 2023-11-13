@@ -10,3 +10,5 @@ library(tidyverse)
 ```
 
 # Exploración inicial de los datos
+
+En primer lugar realizaremos una petición de medidas descriptivas...
